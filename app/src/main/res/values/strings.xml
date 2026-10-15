@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Quản lý Công việc</string>
+    <string name="login_title">ĐĂNG NHẬP</string>
+    <string name="username_hint">Tài khoản</string>
+    <string name="password_hint">Mật khẩu</string>
+    <string name="btn_login">ĐĂNG NHẬP</string>
+    <string name="no_account_register">Chưa có tài khoản? Đăng ký ngay</string>
+    <string name="today_tasks_title">Công việc hôm nay</string>
+    <string name="upcoming_tasks_title">Công việc sắp tới</string>
+    <string name="add_task_title">Thêm mới</string>
+    <string name="task_name_hint">Tên công việc</string>
+    <string name="completion_time_hint">Thời gian hoàn thành</string>
+    <string name="task_notes_hint">Ghi chú</string>
+    <string name="btn_cancel">Hủy</string>
+    <string name="btn_save">Lưu</string>
+    <string name="task_type_label">Thời gian làm việc</string>
+    <string name="today_option">Hôm nay</string>
+    <string name="upcoming_option">Sắp tới</string>
+    <string name="login_failed">Tên đăng nhập hoặc mật khẩu không chính xác!</string>
+    <string name="empty_task_name_error">Vui lòng nhập tên công việc!</string>
+    <string name="add_task_success">Thêm công việc thành công!</string>
+    <string name="register_toast">Chức năng đăng ký đang được cập nhật!</string>
+</resources>
